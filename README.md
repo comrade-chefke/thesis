@@ -1,4 +1,4 @@
-# thesis
+# Thesis
 Welcome to the online appendix of my thesis. This appendix goes through the code of my thesis and explains the gini calculation. The WMF notebook explains the process of RS evaluation, which is copied in the LMF and kNN notebooks. Unfortunately, the LMF notebook is a bit heavy in its computations, which let to a memory error on my laptop. Copying the code directly into a python-file and running it on PyCharm fixed the problem for me. So let's start with recommending after these short notes.
 
 First of, some programs are necessary for the python code, namely: Anaconda, Implicit.py and Visual Tools.
