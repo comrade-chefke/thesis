@@ -3,7 +3,7 @@ Welcome to the online appendix of my thesis. This appendix goes through the code
 
 First of, some programs are necessary for the python code, namely: Anaconda, Implicit.py and Visual Tools.
 
-Anaconda can be downloaded on https://www.anaconda.com/download/  (download the python 3.6 version).
+Anaconda can be downloaded on https://www.anaconda.com/download/  (download the python 3.7 version).
 
 Visual Tools can be downloaded on https://www.visualstudio.com/downloads/#build-tools-for-visual-studio-2017 (it's one of the two free downloads, but I don't know which).
 
